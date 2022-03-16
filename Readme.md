@@ -6,6 +6,7 @@ Used memcpy() and memset() in place loops used for copying and setting the data.
 Used resgister keyword only once</br>
 Used techniques like bswap, loop unrolling.</br>
 
+New time is 2660msecs
 
 Previously</br>
 

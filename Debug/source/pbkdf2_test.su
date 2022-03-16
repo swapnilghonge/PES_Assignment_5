@@ -1,0 +1,6 @@
+pbkdf2_test.c:28:6:cmp_bin	32	static
+pbkdf2_test.c:39:22:hexdigit_to_int	16	static
+pbkdf2_test.c:63:6:hexstr_to_bytes	40	static
+pbkdf2_test.c:76:6:test_isha	232	static
+pbkdf2_test.c:148:6:test_hmac_isha	128	static
+pbkdf2_test.c:192:6:test_pbkdf2_hmac_isha	1304	static

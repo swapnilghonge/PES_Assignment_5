@@ -1,0 +1,3 @@
+pbkdf2.c:18:6:hmac_isha	360	static
+pbkdf2.c:80:13:F	2376	static
+pbkdf2.c:157:6:pbkdf2_hmac_isha	2632	static

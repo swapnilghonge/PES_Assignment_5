@@ -1,0 +1,8 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+ticktime.c:14:6:init_ticktime	8	static
+ticktime.c:30:6:SysTick_Handler	8	static
+ticktime.c:36:12:now	8	static
+ticktime.c:42:6:reset_timer	8	static
+ticktime.c:48:12:get_timer	8	static
